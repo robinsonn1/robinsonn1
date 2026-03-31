@@ -1,7 +1,7 @@
 # Robinson Navarro
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/robinsonn1/robinsonn1/main/assets/header.gif" width="600"/>
+  <img src="assets/banner1.png" width="600"/>
 </p>
 ## Engineering Focus
 
