@@ -3,6 +3,9 @@
 <p align="center">
   <img src="assets/banner1.png" width="600"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9CA3AF&center=true&vCenter=true&lines=Backend+Engineer;LLM+Integrations;FastAPI+%2B+APIs" />
+</p>
 ## Engineering Focus
 
 - Backend systems & APIs
