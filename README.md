@@ -1,7 +1,8 @@
 # Robinson Navarro
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:111827&height=120&section=header&text=Robinson%20Navarro&fontSize=28&fontColor=ffffff)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/robinsonn1/robinsonn1/main/assets/header.gif" width="600"/>
+</p>
 ## Engineering Focus
 
 - Backend systems & APIs
