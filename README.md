@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="assets/banner1.png" width="600"/>
+<img src="assets/banner1.png" width="300"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=9CA3AF&center=true&vCenter=true&lines=Work in Progress;LLM+Integrations;FastAPI+%2B+APIs" />
+<img src="https://readme-typing-svg.herokuapp.com?color=9CA3AF&center=true&vCenter=true&lines=Work+in+Progress;LLM+Integrations;FastAPI+%2B+APIs" />
 
 </div>
 ## Engineering Focus
