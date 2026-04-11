@@ -21,7 +21,8 @@
 ![Docker](https://img.shields.io/badge/Docker-111827?style=flat&logo=docker)
 ![REST](https://img.shields.io/badge/API-REST-111827)
 ![OpenAI](https://img.shields.io/badge/LLM-OpenAI-111827)
-![MySQL](https://img.shields.io/badge/MySQL-111827)
+![MySQL](https://img.shields.io/badge/MySQL-111827?logo=mysql)
+![XAMPP](https://img.shields.io/badge/XAMPP-111827?logo=apache)
 
 
 ---
